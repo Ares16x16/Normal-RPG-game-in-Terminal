@@ -2,8 +2,8 @@
 
 Team members:
 
->UID: 3035777951 , Name: Leung Ming Ting<br/>
->UID: 3035782188 , Name: Lo Tsz Yin
+>UID: ---------- , Name: Leung Ming Ting<br/>
+>UID: ---------- , Name: Lo Tsz Yin
 
 Topic: Role-playing Adventure games <br/>
 Name of the game: Normal RPG game
